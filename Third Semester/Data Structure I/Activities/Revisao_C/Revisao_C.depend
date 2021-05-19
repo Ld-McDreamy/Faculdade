@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1615256246 source:d:\my stuffs\college\college subjects\third semester\data structure i\activities\revisao_c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1615258208 source:d:\my stuffs\college\college subjects\third semester\data structure i\activities\ex_4-2.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
